@@ -1,0 +1,3 @@
+map3D = importOccupancyMap3D("fr_078_tidyup.bt");
+show(map3D)
+hello = 1
